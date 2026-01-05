@@ -37,24 +37,24 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        ### 🔗 [**ITAGEO**](https://site-itageo.vercel.app/)
+        ###🔗 [**ITAGEO**](https://site-itageo.vercel.app/)
         🌱 **Corporate website** for an environmental consulting company. Built with **React**, **Next.js**, and **Tailwind CSS**.
         <em>Responsive • SEO-friendly • Clean</em>
       </td>
       <td align="center" width="50%">
-        ### 🎨 [**HEXplorer**](https://github.com/pedro-zucchi90/hexplorer)
+        ###🎨 [**HEXplorer**](https://github.com/pedro-zucchi90/hexplorer)
         📱 **Flutter mobile app** for real-time color capture and custom palette generation. Save, export, and share palettes easily.
         <em>Creativity meets technology</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        ### 🎮 [**IFC Coin**](https://github.com/pedro-zucchi90/ifc-coin)
+        ###🎮 [**IFC Coin**](https://github.com/pedro-zucchi90/ifc-coin)
         📚 **Educational gamification system** built with **Node.js**, **Express**, **MongoDB**, and **Flutter**. Teachers create missions → students complete tasks → earn coins.
         <em>Engagement through gamification</em>
       </td>
       <td align="center" width="50%">
-        ### 📦 [**TrustV Inventory Control**](https://github.com/pedro-zucchi90/trustv-inventory)
+        ###📦 [**TrustV Inventory Control**](https://github.com/pedro-zucchi90/trustv-inventory)
         📊 **Web-based inventory management system** using **Flask** + **SQLite**. Includes product registration, stock tracking, tax reports, and exports.
         <em>Intuitive • Efficient • Responsive</em>
       </td>
