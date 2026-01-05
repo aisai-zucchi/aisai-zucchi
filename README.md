@@ -61,9 +61,9 @@
     </td>
     <td align="center" width="50%">
       <br>
-      <h3>📦 <a href="https://github.com/pedro-zucchi90/trustv-inventory">TrustV Inventory Control</a></h3>
-      <p>📊 <b>Web-based inventory management system</b> using <b>Flask</b> + <b>SQLite</b>. Includes product registration, stock tracking, tax reports, and exports.</p>
-      <em>Intuitive • Efficient • Responsive</em>
+      <h3>🌍 <a href="https://samargt.com.br/">Samar Geotecnologia</a></h3>
+      <p>📊 <b>Institutional landing page</b> for a geotechnology and environment company. Developed with <b>React</b> and <b>Tailwind CSS</b> to showcase specialized services.</p>
+      <em>Professional • Performance • Modern</em>
       <br><br>
     </td>
   </tr>
