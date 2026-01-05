@@ -34,32 +34,40 @@
 ## <div align="center">Featured Projects</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        ###🔗 [**ITAGEO**](https://site-itageo.vercel.app/)
-        🌱 **Corporate website** for an environmental consulting company. Built with **React**, **Next.js**, and **Tailwind CSS**.
-        <em>Responsive • SEO-friendly • Clean</em>
-      </td>
-      <td align="center" width="50%">
-        ###🎨 [**HEXplorer**](https://github.com/pedro-zucchi90/hexplorer)
-        📱 **Flutter mobile app** for real-time color capture and custom palette generation. Save, export, and share palettes easily.
-        <em>Creativity meets technology</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        ###🎮 [**IFC Coin**](https://github.com/pedro-zucchi90/ifc-coin)
-        📚 **Educational gamification system** built with **Node.js**, **Express**, **MongoDB**, and **Flutter**. Teachers create missions → students complete tasks → earn coins.
-        <em>Engagement through gamification</em>
-      </td>
-      <td align="center" width="50%">
-        ###📦 [**TrustV Inventory Control**](https://github.com/pedro-zucchi90/trustv-inventory)
-        📊 **Web-based inventory management system** using **Flask** + **SQLite**. Includes product registration, stock tracking, tax reports, and exports.
-        <em>Intuitive • Efficient • Responsive</em>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>🔗 <a href="https://site-itageo.vercel.app/">ITAGEO</a></h3>
+      <p>🌱 <b>Corporate website</b> for an environmental consulting company. Built with <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>.</p>
+      <em>Responsive • SEO-friendly • Clean</em>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>🎨 <a href="https://github.com/pedro-zucchi90/hexplorer">HEXplorer</a></h3>
+      <p>📱 <b>Flutter mobile app</b> for real-time color capture and custom palette generation. Save, export, and share palettes easily.</p>
+      <em>Creativity meets technology</em>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>🎮 <a href="https://github.com/pedro-zucchi90/ifc-coin">IFC Coin</a></h3>
+      <p>📚 <b>Educational gamification system</b> built with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b>, and <b>Flutter</b>. Teachers create missions → students complete tasks → earn coins.</p>
+      <em>Engagement through gamification</em>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>📦 <a href="https://github.com/pedro-zucchi90/trustv-inventory">TrustV Inventory Control</a></h3>
+      <p>📊 <b>Web-based inventory management system</b> using <b>Flask</b> + <b>SQLite</b>. Includes product registration, stock tracking, tax reports, and exports.</p>
+      <em>Intuitive • Efficient • Responsive</em>
+      <br><br>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
