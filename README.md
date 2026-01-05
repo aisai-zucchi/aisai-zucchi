@@ -61,9 +61,9 @@
     </td>
     <td align="center" width="50%">
       <br>
-      <h3>🌍 <a href="https://samargt.com.br/">Samar Geotecnologia</a></h3>
-      <p>📊 <b>Institutional landing page</b> for a geotechnology and environment company. Developed with <b>React</b> and <b>Tailwind CSS</b> to showcase specialized services.</p>
-      <em>Professional • Performance • Modern</em>
+      <h3>🌍 <a href="https://samargt.com.br/">Samar Gestão Territorial</a></h3>
+      <p>🏗️ <b>Land & Territorial Management</b> platform for energy and infrastructure. Developed with <b>React</b> and <b>Tailwind</b> to present technical, legal, and environmental solutions.</p>
+      <em>Strategic • Scalable • Professional</em>
       <br><br>
     </td>
   </tr>
