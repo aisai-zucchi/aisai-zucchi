@@ -24,7 +24,7 @@
 | **Category** | **Technologies** |
 |------------------|----------------------------------------------------------------------------------|
 | 🎨 **Frontend** | React • TypeScript • Flutter • HTML5 • CSS3 • Tailwind • Next.js                 |
-| ⚙️ **Backend** | Node.js • Express • MongoDB • MySQL • PostgreSQL                                 |
+| ⚙️ **Backend** | Node.js • Express • MongoDB • MySQL • PostgreSQL • ObjectBox                                |
 | 🧩 **Other Skills** | Advanced English • Teamwork • Problem-solving • Adaptability • Organization     |
 
 </div>
