@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  🎓 Brazilian student majoring in <b>Computer Science for the Internet</b> at <i>Instituto Federal Catarinense</i>.<br>
+  🎓 Brazilian student majoring in <b>Computer Science</b> at <i>Instituto Federal Catarinense</i>.<br>
   ⚡ JavaScript & Node.js enthusiast — coding, coffee, and curiosity.
 </div>
 
