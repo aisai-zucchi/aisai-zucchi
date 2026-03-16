@@ -1,8 +1,4 @@
 <div align="center">
-  <img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=BE55F7&center=false&vCenter=false&width=500&lines=Hey+there!+I'm+Pedro+Zucchi+++;Junior+Web+Developer;Always+learning,+always+building+++" />
-</div>
-
-<div align="center">
   🎓 Brazilian student majoring in <b>Computer Science</b> at <i>Instituto Federal Catarinense</i>.<br>
   ⚡ JavaScript & Node.js enthusiast — coding, coffee, and curiosity.
 </div>
